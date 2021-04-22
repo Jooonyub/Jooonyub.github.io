@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Joonyub Kim"
-  avatar           : "/assets/images/github_profile.jpg"
+  avatar           : "assets/images/github_profile.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |
     Every Trial Matters
     세상에 가치를 더하고 싶습니다.
